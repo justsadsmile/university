@@ -1,54 +1,64 @@
-# Year 1 Autumn Term - Laboratory Works
+# University
 
-My university lab work from the first year autumn term.
+My university lab works and coursework. C, C#, and Java (in progress).
 
 ## Structure
 
-### C# Labs
+- [`year-1/`](year-1/) — First year
+  - [`semester-1/`](year-1/semester-1/) — Autumn term
+  - [`semester-2/`](year-1/semester-2/) — Spring term
+- [`year-2/`](year-2/) — Second year (in progress)
+  - [`semester-1/`](year-2/semester-1/) — Autumn term
+  - [`semester-2/`](year-2/semester-2/) — Spring term
 
-| Directory | Topics |
-|-----------|--------|
-| `BasicProgrammingLab1` | Math expressions, console I/O |
-| `BasicProgrammingLab2` | Menu system, methods, validation |
-| `BasicProgrammingLab3` | Arrays, sorting (Bubble & Shell), Stopwatch |
-| `BasicProgrammingLab4` | 2D arrays, Connect Four game |
-| `BasicProgrammingLab5` | Refactoring, utility classes |
-| `BasicProgrammingLab6` | Windows Forms (GUI) |
+## Year 1
 
-| Directory | Topics |
-|-----------|--------|
-| `ProgrammingWorkshopLab1` | BMI calculator (basic) |
-| `ProgrammingWorkshopLab2` | BMI with age/gender adjustments |
-| `ProgrammingWorkshopLab3` | Arrays, history tracking, statistics |
-| `ProgrammingWorkshopLab4` | OOP approach, classes |
+<details>
+<summary>Semester 1 (Autumn)</summary>
 
-### C Labs
+- **Basic Programming** — C# console apps and WinForms. Math, menus, arrays, sorting, Connect Four.
+- **Computer Science** — C. I/O, arrays, dynamic memory, files, strings, recursion.
+- **Programming Workshop** — C# console apps. BMI calculator from basics to OOP.
 
-| Directory | Topics |
-|-----------|--------|
-| `computer_science_lab1` | Basic I/O, math operations, data types |
-| `computer_science_lab2` | Arrays, dynamic memory, functions |
-| `computer_science_lab3` | File I/O, string processing |
-| `computer_science_lab4` | Recursion, series summation |
+</details>
+
+<details>
+<summary>Semester 2 (Spring)</summary>
+
+- **Programming Languages and Data Structures** — C# WPF. Recursion, linked lists, circular lists, binary search tree.
+
+</details>
+
+## Year 2 (in progress)
+
+<details>
+<summary>Semester 1 (Autumn)</summary>
+
+- **Subject Name** — brief description.
+
+</details>
+
+<details>
+<summary>Semester 2 (Spring)</summary>
+
+- **Subject Name** — brief description.
+
+</details>
+
+## Tools
+
+- **Visual Studio** — C# and C projects
+- **Rider** — C# projects
+- **IntelliJ IDEA** — Java projects
+- **.NET 9** — C# runtime
+- **MSVC** — C compiler
+- **Git** — version control
 
 ## How to Run
 
-### C# Projects
-```bash
-# Open in Visual Studio or use .NET CLI
-dotnet run --project BasicProgrammingLab1/BasicProgrammingLab1.csproj
-```
+Each semester folder has its own README with specific instructions.
 
-### C Projects
-```bash
-# Compile with Visual Studio or GCC
-gcc computer_science_lab1/main.c -o lab1.exe
-```
+## Notes
 
-## Tools
-- **Visual Studio** - Main IDE
-- **.NET Framework** - For C# projects
-- **C/C++** - For computer science labs
-
----
-*Educational repository - First Year University*
+- Educational repository.
+- `user_config.h` and `.env` are local-only and not tracked. Copy the `.example` versions.
