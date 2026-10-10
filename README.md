@@ -5,8 +5,8 @@ My university lab works and coursework. C, C#, and Java (in progress).
 ## Structure
 
 - [`year-1/`](year-1/) — First year
-  - [`semester-1/`](year-1/semester-1/) — Autumn term
-  - [`semester-2/`](year-1/semester-2/) — Spring term
+  - [`semester-1/`](year-1/semester-1/) — C# basics, C, programming workshop
+  - [`semester-2/`](year-1/semester-2/) — Data structures in C# (lists, trees, recursion)
 - [`year-2/`](year-2/) — Second year (in progress)
   - [`semester-1/`](year-2/semester-1/) — Autumn term
   - [`semester-2/`](year-2/semester-2/) — Spring term
