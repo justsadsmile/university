@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>
-#include "config.h"
+#include "user_config.h"
 
 int main(void)
 {

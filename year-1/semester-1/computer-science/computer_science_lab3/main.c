@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "config.h"
+#include "user_config.h"
 
 #include <ctype.h>
 #include <string.h>

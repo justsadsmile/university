@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "config.h"
 #include <math.h>
+#include "user_config.h"
 
 #define ROUND_TO_DECIMAL(value, decimals) (round((value) * pow(10, decimals)) / pow(10, decimals))
 

@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h> 
 #include <time.h>  
-#include "config.h"
+#include "user_config.h"
 
 int GetMaxEvenNonZeroNumber(int array[], int n) {
 	int maxEvenNonZero = 0;
